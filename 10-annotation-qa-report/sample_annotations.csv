@@ -1,0 +1,13 @@
+task_id,annotator,label
+t1,ann_a,good
+t1,ann_b,good
+t1,ann_c,bad
+t2,ann_a,bad
+t2,ann_b,bad
+t2,ann_c,bad
+t3,ann_a,good
+t3,ann_b,bad
+t3,ann_c,neutral
+t4,ann_a,neutral
+t4,ann_b,good
+t4,ann_c,good
